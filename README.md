@@ -1,4 +1,4 @@
-### Hi there, I'm EeroLai 👋
+## I'm EeroLai
 
 I'm a Full Stack Developer. I'm always eager to learn new things.
 
@@ -17,8 +17,18 @@ You can contact me through eero.lai0412@gmail.com or [twitter](https://twitter.c
 ### 🤝 Collaboration
 I'm open to collaborating on Development tools and software. If you're interested in working together, feel free to reach out to me.
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=eerolai&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerolai&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-### 🎉 Thanks for Visiting
-Thanks for stopping by and checking out my profile. I'm looking forward to connecting with you!
+### Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=eerolai&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eerolai&layout=compact&theme=dracula" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=eerolai&&style=flat-square" align="center" />
+</div>  
+  
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
