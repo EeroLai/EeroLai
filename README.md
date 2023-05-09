@@ -19,6 +19,6 @@ I'm open to collaborating on Development tools and software. If you're intereste
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=eerolai&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eerolai&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ### 🎉 Thanks for Visiting
 Thanks for stopping by and checking out my profile. I'm looking forward to connecting with you!
