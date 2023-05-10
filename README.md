@@ -30,5 +30,3 @@ I'm open to collaborating on Development tools and software. If you're intereste
 <img src="https://komarev.com/ghpvc/?username=eerolai&&style=flat-square" align="center" />
 </div>  
   
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
