@@ -1,3 +1,5 @@
+<p align="center"><a href="https://EeroLai.github.io"><img width="80%" alt="Hello, I'm EeroLai" src="./assets/eerolai.png" /></a></p>
+
 # I'm EeroLai
 I'm a self-taught passionate Full Stack developer from Taiwan
 
