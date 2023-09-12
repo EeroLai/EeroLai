@@ -4,8 +4,8 @@ I'm a self-taught passionate Full Stack developer from Taiwan
 
 ## About me
 - 💼 Full Stack Engineer at AUO
-- 💬 Ask me about anything [here](https://github.com/eerolai/eerolai/issues)
 - ❤️ I love writing JavaScript
+- 💬 Ask me about anything [here](https://github.com/eerolai/eerolai/issues)
 
 ## Collaboration
 I'm open to collaborating on Development tools and software. If you're interested in working together, feel free to reach out to me.
