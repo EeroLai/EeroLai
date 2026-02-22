@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=EeroLai&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Taiwan%20🇹🇼&descAlignY=60&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=EeroLai&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20from%20Taiwan&descAlignY=60&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Eero+%F0%9F%91%8B;Full+Stack+Engineer+%40+AUO;JavaScript+%2F+TypeScript+Lover+%E2%9D%A4%EF%B8%8F;Always+building+something+cool...)](https://git.io/typing-svg)
 
@@ -20,10 +20,9 @@
 ```ts
 const eero = {
   role:       "Full Stack Engineer",
-  location:   "Taiwan 🇹🇼",
-  passions:   ["JavaScript", "Clean Code", "Building tools that matter"],
-  currentFocus: "Scalable web architectures & developer experience",
-  funFact:    "I debug in production (just kidding... mostly 😅)",
+  location:   "Taiwan",
+  passions:   ["Exploring new tech", "Clean Code", "Building tools that matter"],
+  currentFocus: "Game development & exploring how games are built",
 };
 ```
 
